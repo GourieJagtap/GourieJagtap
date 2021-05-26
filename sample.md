@@ -1,3 +1,4 @@
+<img src="https://github.com/GourieJagtap/GourieJagtap/blob/96feda2c41877245909f237aa5e028aab401fa1e/the%20powerful%20play%20goes%20on,%20and%20you%20may%20contribute%20a%20verse..gif">
 <h2 align="center">Hey, Gourie Here !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 - :school: Currently First Year Student at Sinhagad Institute of Technology & Science, Pune
