@@ -4,7 +4,6 @@
 - :school: Currently First Year Student at Sinhagad Institute of Technology & Science, Pune
 - :computer: Computer Science Stream
 
-
 [![Gourie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouriejagtap&show_icons=true&title_color=FF0000&icon_color=FF0066&text_color=000000&bg_color=CCCC99)](https://github.com/gouriejagtap/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouriejagtap&layout=compact&title_color=FF0000&bg_color=CCCC99)](https://github.com/gouriejagtap/github-readme-stats)
 
@@ -27,10 +26,8 @@
 <a  href="" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:">
+
+<a href="mailto:gouriejagtap@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
