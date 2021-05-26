@@ -23,10 +23,9 @@
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 <p align="center"> 
-<a  href="" target="_blank">
+<a  href="https://www.linkedin.com/in/gourie-jagtap-726a92209" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:gouriejagtap@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="" target="_blank">
