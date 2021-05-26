@@ -6,7 +6,7 @@
 
 
 [![Gourie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouriejagtap&show_icons=true&title_color=FF0000&icon_color=FF0066&text_color=000000&bg_color=CCCC99)](https://github.com/gouriejagtap/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouriejagtap&layout=compact&title_color=FF0000&bg_color=CCCC99)](https://github.com/gouriejagtap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouriejagtap&layout=compact)](https://github.com/gouriejagtap/github-readme-stats)
 
 <h2 align="center">Tech-Stacks 👨‍💻</h2>
 <span>
