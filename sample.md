@@ -11,7 +11,7 @@
 <span>
 <span align="centeer">
  <h3>Programming Languages 💻</h3>
- 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </span>
 <span align="ceneter">
  <h3>Front-End Web-Development 🖥️</h3>
@@ -28,7 +28,7 @@
 </a>
 <a href="mailto:gouriejagtap@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="" target="_blank">
+<a href="https://www.facebook.com/gourie.jagtap" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </p> 
  
