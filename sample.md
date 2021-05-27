@@ -34,7 +34,7 @@
  
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
 <p  align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com?user=gouriejagtap&background=B511DD" alt="Gourie Jagtap" />
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com?user=gouriejagtap&background=CCCC99&border=FF0066&stroke=FF0066&ring=FF0000&fire=FF4500&currStreakLabel=FF4500&sideLabels=DC143C&dates=484848" alt="Gourie Jagtap" />
 </p>
 
 
