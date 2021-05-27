@@ -38,4 +38,4 @@
 </p>
 
 
-[![Gourie's github activity graph](https://activity-graph.herokuapp.com/graph?username=gouriejagtap&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/gouriejagtap/github-readme-activity-graph)
+[![Gourie's github activity graph](https://activity-graph.herokuapp.com/graph?username=gouriejagtap&bg_color=000000&color=FFFFFF&line=DC143C&point=CCCC99)](https://github.com/gouriejagtap/github-readme-activity-graph)
